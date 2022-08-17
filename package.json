@@ -1,0 +1,23 @@
+{
+  "name": "simple_api_task-",
+  "version": "1.0.0",
+  "description": "Calling a third party API from the node.js server to fetch data and displaying the API response in a react application.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayeshgoyal0308/Simple_API_Task-.git"
+  },
+  "author": "Jayesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayeshgoyal0308/Simple_API_Task-/issues"
+  },
+  "homepage": "https://github.com/Jayeshgoyal0308/Simple_API_Task-#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
