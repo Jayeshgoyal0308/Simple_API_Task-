@@ -18,6 +18,16 @@ This is Jayesh Goyal from MSRIT-ISE 4th year. It is an assignment submitted with
 - Run the server :
 ``` node server.js ```
 
+- cd to client :
+``` cd client/ ```
+
+- Install Dependencies : 
+``` npm install ```
+
+- Run React Scripts : 
+``` npm start ```
+
+
 # Snapshots
 
 - Dashboard Screenshot1
